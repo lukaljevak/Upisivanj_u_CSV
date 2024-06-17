@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upisivanje_u.csv", "Upisivanje_u.csv\Upisivanje_u.csv.csproj", "{A38865DE-BBDC-4085-80D1-47D0EE292699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38865DE-BBDC-4085-80D1-47D0EE292699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38865DE-BBDC-4085-80D1-47D0EE292699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38865DE-BBDC-4085-80D1-47D0EE292699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38865DE-BBDC-4085-80D1-47D0EE292699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069BA55E-F719-4E21-BEBC-D77BF6B57FE9}
+	EndGlobalSection
+EndGlobal
